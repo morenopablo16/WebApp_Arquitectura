@@ -9,9 +9,7 @@ Interactive tool to design and visualize industrial cybersecurity architectures 
 ## 🎥 Demo
 
 <p align="center">
-  <a href="./demo_arq.mp4">
-    <img src="https://img.shields.io/badge/▶️%20Watch%20Demo-Click%20Here-blue?style=for-the-badge">
-  </a>
+  <img src="./demo_arq.gif" alt="Demo">
 </p>
 
 ---
